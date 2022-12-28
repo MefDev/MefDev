@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MefDev
 - 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning Django Framework...
-- 💞️ I’m looking to collaborate on personal side project or contributing to an open source
+- 💞️ I’m looking to collaborate on personal side projects or contributing to an open source
 - 📫 How to reach me https://twitter.com/mef_dev 👀
 
 <!---

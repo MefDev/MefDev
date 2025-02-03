@@ -5,10 +5,10 @@
 
 - 🤝 I’m looking for help with [LangRythms](https://github.com/MefDev/LangRhythms)
 
-- 👨‍💻 Profile [https://mefdevpro.netlify.app)
+- 👨‍💻 New Profile [https://mefdevpro.netlify.app)
 )
 
-- 💬 Ask me about **react** or **Net**
+- 💬 Ask me about **react** or **.Net**
 
 - 📫 How to reach me **mefdev.pro@gmail.com**
 

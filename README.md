@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Meftah</h1>
-<h3 align="center">A Creative and detail-oriented software engineer with a passion for AI and a deep interest in EdTech.</h3>
+<h3 align="center">A Creative and detail-oriented software developer with a passion for AI and a deep interest in EdTech.</h3>
 
 - 🔭 I’m currently working on [LangRythms](https://github.com/MefDev/LangRhythms)
 
